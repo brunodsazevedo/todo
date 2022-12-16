@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="ToDo" height="400" title="ToDo" src=".github/images/Capa.jpg" />
+  <img alt="ToDo" height="600" title="ToDo" src=".github/images/Capa.jpg" />
 </h1>
 
 ## 💻 Projeto
